@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10976" started-at="2016-11-15T01:48:59Z" finished-at="2016-11-15T01:49:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10976" started-at="2016-11-15T01:48:59Z" finished-at="2016-11-15T01:49:10Z">
+      <class name="jenkinsTestng.JenkinTestcase">
+        <test-method status="PASS" signature="kk()[pri:0, instance:jenkinsTestng.JenkinTestcase@4590c9c3]" name="kk" is-config="true" duration-ms="6" started-at="2016-11-14T20:48:59Z" finished-at="2016-11-14T20:48:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kk -->
+        <test-method status="PASS" signature="mu()[pri:0, instance:jenkinsTestng.JenkinTestcase@4590c9c3]" name="mu" duration-ms="5" started-at="2016-11-14T20:48:59Z" finished-at="2016-11-14T20:48:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mu -->
+        <test-method status="PASS" signature="kk()[pri:0, instance:jenkinsTestng.JenkinTestcase@4590c9c3]" name="kk" is-config="true" duration-ms="0" started-at="2016-11-14T20:48:59Z" finished-at="2016-11-14T20:48:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kk -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:jenkinsTestng.JenkinTestcase@4590c9c3]" name="test1" duration-ms="10942" started-at="2016-11-14T20:48:59Z" finished-at="2016-11-14T20:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- jenkinsTestng.JenkinTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
