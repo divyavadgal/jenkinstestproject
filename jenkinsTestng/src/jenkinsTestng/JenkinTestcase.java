@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 
 public class JenkinTestcase {
 	// added comment
+	// second comment
 	@BeforeMethod
 	void kk(){
 		System.out.println("before method");
